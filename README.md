@@ -10,7 +10,8 @@ configured in pakage.json file*********
     "start": "nodemon index.js"
   },
 }
-
+for loading all dependency******
+nmp install
 to run the application*******
 npm start
 
