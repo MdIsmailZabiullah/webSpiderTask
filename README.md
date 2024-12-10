@@ -12,6 +12,11 @@ configured in pakage.json file*********
 }
 for loading all dependency******
 nmp install
+
+**for Database Schema Look at Models Folder**
+**for APIs Look at Routes folder**
+
+
 to run the application*******
 npm start
 
